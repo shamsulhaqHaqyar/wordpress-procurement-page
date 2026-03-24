@@ -6,7 +6,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![WPBakery](https://img.shields.io/badge/WPBakery-0073AA?style=flat-square&logo=wordpress&logoColor=white)
 
-**Live:** [lapis-group.com/requests-for-prices](https://lapis-group.com/partner-with-us/) · **Status:** Production
+**Live:** [https://lapis-group.com/partner-with-us/](https://lapis-group.com/partner-with-us/) · **Status:** Production
 
 ---
 
